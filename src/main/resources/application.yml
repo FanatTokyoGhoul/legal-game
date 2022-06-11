@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/vsu?currentSchema=legal_game
+    username: d3f0u1t
+    password: qqqqqq
